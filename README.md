@@ -4,4 +4,5 @@
 *  [【第三期】精通closure](https://github.com/fuzhiquan/blog/issues/3)
 *  [【第四期】精通原型和原型链](https://github.com/fuzhiquan/blog/issues/4)
 *  [【第五期】EventLoop](https://github.com/fuzhiquan/blog/issues/5)
-*  [【第六期】webpack原理](https://github.com/fuzhiquan/blog/issues/6)
+*  [【第六期】webpack配置](https://github.com/fuzhiquan/blog/issues/6)
+*  [【第六期】webpack原理](https://github.com/fuzhiquan/blog/issues/7)
