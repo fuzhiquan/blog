@@ -6,3 +6,4 @@
 *  [【第五期】EventLoop](https://github.com/fuzhiquan/blog/issues/5)
 *  [【第六期】webpack配置](https://github.com/fuzhiquan/blog/issues/6)
 *  [【第七期】webpack原理](https://github.com/fuzhiquan/blog/issues/7)
+*  [【第八期】css](https://github.com/fuzhiquan/blog/issues/8)
