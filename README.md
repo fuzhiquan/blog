@@ -5,6 +5,6 @@
 *  [【第四期】精通原型和原型链](https://github.com/fuzhiquan/blog/issues/4)
 *  [【第五期】EventLoop](https://github.com/fuzhiquan/blog/issues/5)
 *  [【第六期】AMD,CMD](https://github.com/fuzhiquan/blog/issues/6)
-*  [【第7⃣️期】webpack配置](https://github.com/fuzhiquan/blog/issues/7)
+*  [【第七期】webpack配置](https://github.com/fuzhiquan/blog/issues/7)
 *  [【第八期】webpack原理](https://github.com/fuzhiquan/blog/issues/8)
 *  [【第九期】css](https://github.com/fuzhiquan/blog/issues/9)
