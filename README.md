@@ -8,3 +8,4 @@
 *  [webpack配置](https://github.com/fuzhiquan/blog/issues/6)
 *  [webpack原理](https://github.com/fuzhiquan/blog/issues/7)
 *  [css](https://github.com/fuzhiquan/blog/issues/8)
+*  [promise原理](https://github.com/fuzhiquan/blog/issues/9)
