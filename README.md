@@ -8,4 +8,4 @@
 *  [webpack原理](https://github.com/fuzhiquan/blog/issues/7)
 *  [css](https://github.com/fuzhiquan/blog/issues/8)
 *  [AMD,CMD](https://github.com/fuzhiquan/blog/issues/9)
-*  [promise原理](https://github.com/fuzhiquan/blog/issues/10)
+*  [Promise原理](https://github.com/fuzhiquan/blog/issues/10)
