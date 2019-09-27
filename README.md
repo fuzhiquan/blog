@@ -10,3 +10,4 @@
 *  [AMD,CMD](https://github.com/fuzhiquan/blog/issues/9)
 *  [柯里化](https://github.com/fuzhiquan/blog/issues/10)
 *  [deepclone](https://github.com/fuzhiquan/blog/issues/11)
+*  [javascript常用数据结构](https://github.com/fuzhiquan/blog/issues/12)
