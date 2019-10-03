@@ -12,3 +12,4 @@
 *  [deepclone](https://github.com/fuzhiquan/blog/issues/11)
 *  [javascript常用数据结构](https://github.com/fuzhiquan/blog/issues/12)
 *  [generator, async await](https://github.com/fuzhiquan/blog/issues/13)
+*  [promise原理](https://github.com/fuzhiquan/blog/issues/14)
