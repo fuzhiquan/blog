@@ -7,7 +7,7 @@
 *  [webpack配置](https://github.com/fuzhiquan/blog/issues/6)
 *  [webpack原理](https://github.com/fuzhiquan/blog/issues/7)
 *  [css](https://github.com/fuzhiquan/blog/issues/8)
-*  [AMD,CMD](https://github.com/fuzhiquan/blog/issues/9)
+*  [AMD，CMD](https://github.com/fuzhiquan/blog/issues/9)
 *  [柯里化，反柯里化](https://github.com/fuzhiquan/blog/issues/10)
 *  [deepclone](https://github.com/fuzhiquan/blog/issues/11)
 *  [数据结构](https://github.com/fuzhiquan/blog/issues/12)
