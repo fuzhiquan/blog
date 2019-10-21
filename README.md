@@ -15,3 +15,4 @@
 *  [promise原理](https://github.com/fuzhiquan/blog/issues/14)
 *  [defineProperty，freeze，proxy](https://github.com/fuzhiquan/blog/issues/15)
 *  [es6 Class原理，es7@装饰器](https://github.com/fuzhiquan/blog/issues/16)
+*  [reduce，compose](https://github.com/fuzhiquan/blog/issues/17)
