@@ -8,7 +8,7 @@
 *  [webpack原理](https://github.com/fuzhiquan/blog/issues/7)
 *  [host不生效的原因](https://github.com/fuzhiquan/blog/issues/8)
 *  [AMD，CMD](https://github.com/fuzhiquan/blog/issues/9)
-*  [柯里化，反柯里化](https://github.com/fuzhiquan/blog/issues/10)
+*  [curring(柯里化)，uncurring(反柯里化)](https://github.com/fuzhiquan/blog/issues/10)
 *  [deepclone](https://github.com/fuzhiquan/blog/issues/11)
 *  [数据结构](https://github.com/fuzhiquan/blog/issues/12)
 *  [generator, async await](https://github.com/fuzhiquan/blog/issues/13)
