@@ -18,3 +18,4 @@
 *  [reduce，compose](https://github.com/fuzhiquan/blog/issues/17)
 *  [call, apply, bind原理](https://github.com/fuzhiquan/blog/issues/18)
 *  [ESLint校验代码格式规范](https://github.com/fuzhiquan/blog/issues/19)
+*  [TypeScript](https://github.com/fuzhiquan/blog/issues/20)
