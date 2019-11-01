@@ -4,7 +4,7 @@
 *  [精通closure](https://github.com/fuzhiquan/blog/issues/3)
 *  [prototype，__proto__](https://github.com/fuzhiquan/blog/issues/4)
 *  [EventLoop](https://github.com/fuzhiquan/blog/issues/5)
-*  [webpack配置](https://github.com/fuzhiquan/blog/issues/6)
+*  [webpack部分插件或难理解的配置速查说明书](https://github.com/fuzhiquan/blog/issues/6)
 *  [webpack原理](https://github.com/fuzhiquan/blog/issues/7)
 *  [host不生效的原因](https://github.com/fuzhiquan/blog/issues/8)
 *  [AMD，CMD](https://github.com/fuzhiquan/blog/issues/9)
