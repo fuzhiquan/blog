@@ -17,5 +17,4 @@
 *  [es6 Class原理，es7@装饰器](https://github.com/fuzhiquan/blog/issues/16)
 *  [reduce，compose](https://github.com/fuzhiquan/blog/issues/17)
 *  [call, apply, bind原理](https://github.com/fuzhiquan/blog/issues/18)
-*  [ESLint校验代码格式规范](https://github.com/fuzhiquan/blog/issues/19)
-*  [TypeScript](https://github.com/fuzhiquan/blog/issues/20)
+*  [TypeScript](https://github.com/fuzhiquan/blog/issues/19)
