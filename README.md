@@ -25,3 +25,4 @@
 *  [跨域解决方案](https://github.com/fuzhiquan/blog/issues/24)
 *  [node](https://github.com/fuzhiquan/blog/issues/25)
 *  [redux middleware](https://github.com/fuzhiquan/blog/issues/26)
+*  [算法](https://github.com/fuzhiquan/blog/issues/27)
