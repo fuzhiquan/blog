@@ -25,4 +25,4 @@
 *  [跨域解决方案](https://github.com/fuzhiquan/blog/issues/24)
 *  [node](https://github.com/fuzhiquan/blog/issues/25)
 *  [redux原理](https://github.com/fuzhiquan/blog/issues/26)
-*  [算法](https://github.com/fuzhiquan/blog/issues/27)
+*  [react-router-dom原理](https://github.com/fuzhiquan/blog/issues/27)
