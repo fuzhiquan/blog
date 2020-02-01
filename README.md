@@ -23,7 +23,7 @@
 *  [node-npm的使用](https://github.com/fuzhiquan/blog/issues/22)
 *  [react优化](https://github.com/fuzhiquan/blog/issues/23)
 *  [跨域解决方案](https://github.com/fuzhiquan/blog/issues/24)
-*  [node](https://github.com/fuzhiquan/blog/issues/25)
+*  [AMD, CMD](https://github.com/fuzhiquan/blog/issues/25)
 *  [redux原理](https://github.com/fuzhiquan/blog/issues/26)
 *  [react-router-dom原理](https://github.com/fuzhiquan/blog/issues/27)
 *  [react-hooks](https://github.com/fuzhiquan/blog/issues/28)
