@@ -1,0 +1,10 @@
+.info-container {
+    .info-detail {
+        display: flex;
+        flex-direction: row;
+        .avatar {
+            width: 80px;
+            height: 100px;
+        }
+    }
+}

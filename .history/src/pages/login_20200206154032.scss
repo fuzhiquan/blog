@@ -1,0 +1,12 @@
+.login-container {
+    .login-switch-tabs {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        li {
+            border: 1px solid #CCC;
+            cursor: pointer;
+
+        }
+    }
+}
