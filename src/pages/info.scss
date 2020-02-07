@@ -2,12 +2,5 @@
     .info-detail {
         display: flex;
         flex-direction: row;
-        .avatar {
-            width: 80px;
-            height: 100px;
-            background: url('../images/stack.jpg') center no-repeat;
-            background-size: cover;
-            border: 1px solid black;
-        }
     }
 }
