@@ -1,16 +1,22 @@
 import React, { useState, useCallback, memo, useMemo, useRef, useEffect } from 'react'
+//import { bindActionCreators } from 'redux'
+import { connect } from 'react-redux'
+//import store from '../store'
+import * as actions from '../store/actions/login'
 import './login.scss'
-
-export default function(props) {
+// const bundActions = bindActionCreators(actions, store.dispatch)
+function Login(props) {
     const inputNameRef = useRef()
-    let [state, setState] = useState({ isRegist: false })
-
-    const onClickSwitchHandler = useCallback(function(e) {
-        setState((preState) => ({isRegist: !preState.isRegist}))
-    }, [])
-
+    // const [loginName, setLoginName] = useState({name: ''})
+    // useEffect(() => {
+    //     setLoginName(store.getState().login)
+    //     store.subscribe(() => {
+    //         setLoginName(store.getState().login)
+    //     })
+    // }, [])
     const onClickHandler = useCallback(function(e) {
-
+        //bundActions.login({name: inputNameRef.current.value})
+        props.login({name: inputNameRef.current.value})
     }, [])
 
     const dragStartHandler = function(e) {
@@ -50,7 +56,9 @@ export default function(props) {
     ]
     return <div className='login-container'>
         <ul className='login-switch-tabs'>
-            <li onClick={onClickSwitchHandler}>{state.isRegist ? '登陆' : '注册'}</li>
+            {
+                props.name && <li>{`恭喜 ${props.name} 登陆成功！`}</li>
+            }
         </ul>
         <ul>
             {
@@ -70,7 +78,7 @@ export default function(props) {
             <hr/>
             <li>
                 <label>用户名：</label>
-                <input disabled
+                <input disabled ref={inputNameRef}
                     placeholder='请将上方姓名拖入'
                     onDragEnter={dragEnterHandler}
                     onDragOver={dragOverHandler}
@@ -82,8 +90,12 @@ export default function(props) {
                 <label>密&nbsp;&nbsp;&nbsp;码：</label>
                 <input />
             </li>
-            {state.isRegist && <li><label>确认密码：</label><input /></li>}
         </ul>
-        <button onClick={onClickHandler}>{state.isRegist ? '注册' : '登陆'}</button>
+        <button onClick={onClickHandler}>登陆</button>
     </div>
 }
+
+export default connect(
+    state => state.login,
+    actions
+)(Login)

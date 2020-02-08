@@ -1,4 +1,6 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react'
+import { connect } from 'react-redux'
+import * as actions from '../store/actions/info'
 import './info.scss'
 
 function useFetchUserList(url) {
@@ -18,13 +20,13 @@ function useFetchUserList(url) {
     return [data, loadMore]
 }
 
-export default function() {
+function Info(props) {
     const inputRef = useRef()
 
     const url = 'http://localhost:4000/posts'
     const [userList, getUserList] = useFetchUserList(url)
     const [imageList, setImage] = useState([])
-
+    const imgBase64Files = []
     const onInputChange = useCallback(function(e) {
         const files = e.target.files
         for(let i = 0; i < files.length; i++) {
@@ -34,15 +36,22 @@ export default function() {
             reader.onload = function(e) {
                 const arr = [].concat(imageList)
                 arr.push(e.target.result)
+                imgBase64Files.push(e.target.result)
                 setImage(arr)
             }
         }
     }, [imageList])
 
+    const onUploadHandler = function(e) {
+        props.upload(imgBase64Files)
+    }
+
     return <div className='info-container'>
+        <h2>{props.message || '请上传图片'}</h2>
+        <hr/>
         <input type='file' ref={inputRef} style={{width: 0}} onChange={onInputChange} multiple='multiple'/>
         <button onClick={() => {inputRef.current.click()}}>选择文件</button>
-        <button>上传</button>
+        <button onClick={onUploadHandler}>上传</button>
         <div className='info-detail'>
             {
                 imageList.map((url, index) => {
@@ -53,3 +62,8 @@ export default function() {
         
     </div>
 }
+
+export default connect(
+    state => state.info,
+    actions
+)(Info)
