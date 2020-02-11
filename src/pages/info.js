@@ -1,4 +1,5 @@
-import React, { useState, useEffect, useRef, useCallback } from 'react'
+import React, { useState, useEffect, useRef, useCallback, ConcurrentMode } from 'react'
+import { flushSync} from 'react-dom'
 import { connect } from 'react-redux'
 import * as actions from '../store/actions/info'
 import './info.scss'

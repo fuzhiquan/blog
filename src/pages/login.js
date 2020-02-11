@@ -6,6 +6,7 @@ import * as actions from '../store/actions/login'
 import './login.scss'
 // const bundActions = bindActionCreators(actions, store.dispatch)
 function Login(props) {
+    console.log('login-props: ', props)
     const inputNameRef = useRef()
     // const [loginName, setLoginName] = useState({name: ''})
     // useEffect(() => {
