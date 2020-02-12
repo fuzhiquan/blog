@@ -29,4 +29,4 @@
 *  [react-hooks](https://github.com/fuzhiquan/blog/issues/28)
 *  [ajax, fetch, axios](https://github.com/fuzhiquan/blog/issues/29)
 *  [单元测试](https://github.com/fuzhiquan/blog/issues/30)
-*  [前端安全](https://github.com/fuzhiquan/blog/issues/31)
+*  [git](https://github.com/fuzhiquan/blog/issues/31)
