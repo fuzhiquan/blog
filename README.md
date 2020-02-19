@@ -28,3 +28,6 @@
 *  [react-router-dom原理](https://github.com/fuzhiquan/blog/issues/27)
 *  [react-hooks](https://github.com/fuzhiquan/blog/issues/28)
 *  [ajax, fetch, axios](https://github.com/fuzhiquan/blog/issues/29)
+*  [单元测试](https://github.com/fuzhiquan/blog/issues/30)
+*  [git](https://github.com/fuzhiquan/blog/issues/31)
+*  [vue](https://github.com/fuzhiquan/blog/issues/32)
