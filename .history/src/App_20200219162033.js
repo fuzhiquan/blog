@@ -1,6 +1,6 @@
 import React from 'react'
 import { HashRouter as Router, Route, Link } from 'react-router-dom'
-import { ConnectedRouter } from 'connected-react-router'
+import { connectedRouter } from 'connected-react-router'
 import history from './store/history'
 import LoginPage from './pages/login'
 import Register from './pages/register'
@@ -8,7 +8,7 @@ import InfoPage from './pages/info'
 import './App.scss'
 
 export default function(props) {
-    return <ConnectedRouter history={history}>
+    return <connectedRouter history={history}>
         <div className='app-nav-container'>
             <Link to='/'>Home</Link>
             <Link to='/login'>Login</Link>
@@ -20,5 +20,5 @@ export default function(props) {
             <Route path='/register' component={Register} />
             <Route path='/info' component={InfoPage} />
         </div>
-    </ConnectedRouter>
+    </connectedRouter>
 }

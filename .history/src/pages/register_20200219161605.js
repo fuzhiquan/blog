@@ -8,7 +8,7 @@ function Register(props) {
     const emailRef = useRef()
 
     const onClickHandler = function(e) {
-        props.go('/login')
+        props.go('#/login')
         // props.register({
         //     username: usernameRef.current.value,
         //     password: passwordRef.current.value,

@@ -1,7 +1,5 @@
 import { createStore, applyMiddleware } from 'redux'
 import createSagaMiddleware from 'redux-saga'
-import { routerMiddleware } from 'connected-react-router'
-import history from './history'
 import reducers from './reducers'
 import rootSaga from './saga'
 
@@ -18,6 +16,6 @@ function thunk(dispatch, getState) {
 }
 
 const sagaMiddleware = createSagaMiddleware()
-const store = applyMiddleware(sagaMiddleware, routerMiddleware(history))(createStore)(reducers)
+const store = applyMiddleware(sagaMiddleware)(createStore)(reducers)
 sagaMiddleware.run(rootSaga)
 export default store
