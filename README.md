@@ -36,3 +36,4 @@
 *  [Express](https://github.com/fuzhiquan/blog/issues/35)
 *  [canvas](https://github.com/fuzhiquan/blog/issues/36)
 *  [websocket](https://github.com/fuzhiquan/blog/issues/37)
+*  [base64](https://github.com/fuzhiquan/blog/issues/38)
