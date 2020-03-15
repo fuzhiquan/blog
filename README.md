@@ -40,3 +40,4 @@
 *  [file dowload|upload](https://github.com/fuzhiquan/blog/issues/39)
 *  [MongoDB](https://github.com/fuzhiquan/blog/issues/40)
 *  [xss,csrf](https://github.com/fuzhiquan/blog/issues/41)
+*  [前端监控](https://github.com/fuzhiquan/blog/issues/42)
