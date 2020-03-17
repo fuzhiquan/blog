@@ -42,3 +42,4 @@
 *  [xss,csrf](https://github.com/fuzhiquan/blog/issues/41)
 *  [前端监控](https://github.com/fuzhiquan/blog/issues/42)
 *  [throttle, debounce](https://github.com/fuzhiquan/blog/issues/43)
+*  [reg](https://github.com/fuzhiquan/blog/issues/44)
