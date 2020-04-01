@@ -1,7 +1,7 @@
 #### 前端进阶系列（菜鸟变大神）
-*  [理解栈（stack）和堆（heap）的区别](https://github.com/fuzhiquan/blog/issues/1)
-*  [精通this](https://github.com/fuzhiquan/blog/issues/2)
-*  [精通closure](https://github.com/fuzhiquan/blog/issues/3)
+*  [栈（stack）和堆（heap）的区别](https://github.com/fuzhiquan/blog/issues/1)
+*  [this](https://github.com/fuzhiquan/blog/issues/2)
+*  [closure](https://github.com/fuzhiquan/blog/issues/3)
 *  [prototype，__proto__](https://github.com/fuzhiquan/blog/issues/4)
 *  [EventLoop](https://github.com/fuzhiquan/blog/issues/5)
 *  [webpack部分插件或难理解的配置速查说明书](https://github.com/fuzhiquan/blog/issues/6)
