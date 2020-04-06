@@ -47,3 +47,4 @@
 *  [rem](https://github.com/fuzhiquan/blog/issues/47)
 *  [https](https://github.com/fuzhiquan/blog/issues/48)
 *  [react-ssr](https://github.com/fuzhiquan/blog/issues/49)
+*  [dva](https://github.com/fuzhiquan/blog/issues/50)
