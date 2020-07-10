@@ -51,3 +51,4 @@
 *  [wechat miniProgram](https://github.com/fuzhiquan/blog/issues/51)
 *  [BFC](https://github.com/fuzhiquan/blog/issues/52)
 *  [Bootstrap](https://github.com/fuzhiquan/blog/issues/53)
+*  [理财知识](https://github.com/fuzhiquan/blog/issues/54)
