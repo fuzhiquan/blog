@@ -54,3 +54,5 @@
 *  [http](https://github.com/fuzhiquan/blog/issues/54)
 *  [webgl](https://github.com/fuzhiquan/blog/issues/60)
 *  [WebAssembly](https://github.com/fuzhiquan/blog/issues/79)
+*  [WebAssembly](https://github.com/fuzhiquan/blog/issues/81)
+
