@@ -55,4 +55,5 @@
 *  [webgl](https://github.com/fuzhiquan/blog/issues/60)
 *  [WebAssembly](https://github.com/fuzhiquan/blog/issues/79)
 *  [微前端](https://github.com/fuzhiquan/blog/issues/81)
+*  [webpack5](https://github.com/fuzhiquan/blog/issues/82)
 
