@@ -61,3 +61,4 @@
 *  [jenkins](https://github.com/fuzhiquan/blog/issues/87)
 *  [flutter](https://github.com/fuzhiquan/blog/issues/88)
 *  [graphql](https://github.com/fuzhiquan/blog/issues/95)
+*  [requestIdleCallback](https://github.com/fuzhiquan/blog/issues/96)
