@@ -62,3 +62,4 @@
 *  [flutter](https://github.com/fuzhiquan/blog/issues/88)
 *  [graphql](https://github.com/fuzhiquan/blog/issues/95)
 *  [requestIdleCallback](https://github.com/fuzhiquan/blog/issues/96)
+*  [mysql](https://github.com/fuzhiquan/blog/issues/96)
